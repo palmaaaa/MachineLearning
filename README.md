@@ -11,10 +11,11 @@ Both datasets were balanced with 5000 instances per class, 10 classes for a tota
 The elements of the datasets were feature vector of dimension d, specifically 100 for dataset 1 and 1000 for dataset 2.  
 
 ### Score
-_ Coming soon _
+_Coming soon_
 
 ## Homework 2
-_ Coming soon _
+_Coming soon_
 
 ### Score
-_ Coming soon _
+_Coming soon_
+
