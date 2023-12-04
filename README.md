@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning 🤖
 This repository contains the optional homework to get additional points for the final exam.
 This exam was inserted in my study plan as an external one from Robotics and AI (Professor Luca Iocchi).
 
