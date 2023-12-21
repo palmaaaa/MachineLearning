@@ -12,10 +12,10 @@ Both datasets were balanced and had 5000 instances per class (10 total classes) 
 The elements of the datasets were feature vectors of dimension d, specifically 100 for dataset 1 and 1000 for dataset 2.  
 
 ### Score
-_?/2_
+_2/2_
 
 ### Leaderboard Position
-_?/?_
+_-/84_ Due to malformatted files the ranking was not assigned for me (by following the description it had to have two columns, but it apparently only needed to have one).
 
 ## Homework 2
 _Coming soon_
