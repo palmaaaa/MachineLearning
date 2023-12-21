@@ -15,7 +15,7 @@ The elements of the datasets were feature vectors of dimension d, specifically 1
 _2/2_
 
 ### Leaderboard Position
-_-/84_ Due to malformatted files the ranking was not assigned for me (by following the description it had to have two columns, but it apparently only needed to have one).
+_-/84_  Due to malformatted files the ranking was not assigned for me (by following the description it had to have two columns, but it apparently only needed to have one).
 
 ## Homework 2
 _Coming soon_
