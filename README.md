@@ -24,6 +24,3 @@ _Coming soon_
 
 ### Score
 _?/2_
-
-### Leaderboard Position
-_?/?_
